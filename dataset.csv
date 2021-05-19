@@ -1,4 +1,4 @@
-name ,type,score,raitings,hex,rgb,category,marca
+name,type,score,raitings,hex,rgb,category,marca
 sheer luck,classic,5,3,#f4e1e8,"rgb(244,225,225)",sheers,essie
 always transparent,exprclassic,0,0,#fafbf8,"rgb(250,251,251)",sheers,essie
 tuck it in my tux,classic,3.4,15,#f5f1ee,"rgb(245,241,241)",sheers,essie
@@ -794,7 +794,7 @@ pomegranate punch,infinite shine,4.4,10,#9c1f25,"rgb(156,31,31)",reds,sally hans
 sweet berries,infinite shine,4.4,10,#bd3053,"rgb(189,48,48)",pinks,sally hansen
 peony origins,infinite shine,4.4,10,#ce5389,"rgb(206,83,83)",pinks,sally hansen
 fruity papaya,infinite shine,4.4,10,#ec465c,"rgb(236,70,70)",pinks,sally hansen
-coral calm,infinite shine,4.4,10,#ea6b76,"rgb(234,107,107)",coral,sally hansen
+coral calm,infinite shine,4.4,10,#ea6b76,"rgb(234,107,107)",corals,sally hansen
 eco rose,infinite shine,4.4,10,#a03e4d,"rgb(160,62,62)",pinks,sally hansen
 pink sapphire,infinite shine,4.4,10,#ba657a,"rgb(186,101,101)",pinks,sally hansen
 golden quartz,infinite shine,4.4,10,#c89792,"rgb(200,151,151)",nudes,sally hansen
@@ -991,7 +991,7 @@ little peony,gel couture,4,3018.5,#ffdef9,"rgb(255,222,222)",pinks,sally hansen
 in the sheer,gel couture,4,3018.5,#f4b9cb,"rgb(244,185,185)",pinks,sally hansen
 mauve olous,gel couture,4,3018.5,#cd7778,"rgb(205,119,119)",pinks,sally hansen
 smartease,gel couture,4,3018.5,#f0a7bb,"rgb(240,167,167)",pinks,sally hansen
-regal rose,gel couture,4,3018.5,#f8bfbe,"rgb(248,191,191)",pir,sally hansen
+regal rose,gel couture,4,3018.5,#f8bfbe,"rgb(248,191,191)",pinks,sally hansen
 plush blush,gel couture,4,3018.5,#f7e1e9,"rgb(247,225,225)",nudes,sally hansen
 birthday suit,gel couture,4,3018.5,#ddbbb0,"rgb(221,187,187)",nudes,sally hansen
 totem ly yours,gel couture,4,3018.5,#9f6d5c,"rgb(159,109,109)",browns,sally hansen
