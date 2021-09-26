@@ -1,4 +1,4 @@
-# Recomendation System for Nail Polish Color and ratings
+# Recomendation System for Nail Polish by color and ratings
  
 This algorithm was developed as the final project for Elements of Machine Learning course.
 
